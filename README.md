@@ -101,9 +101,9 @@ Insights into employee compensation structure
 This project demonstrates how machine learning can be effectively applied in the HR domain to estimate salaries based on structured data. The predictive model can help organizations in fair compensation planning, reducing biases, and understanding employee value drivers more comprehensively.
 
 ## Author
-Harshita
+Arshiya Khan
 
-## [LinkedInProfile]:[https://www.linkedin.com/in/harshita-jangra-396437335]
+## LinkedInProfile:https://www.linkedin.com/in/arshiya1613/
 
 
 
